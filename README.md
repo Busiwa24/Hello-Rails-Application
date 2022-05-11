@@ -1,6 +1,8 @@
-# Hello-Rails-Application
+# Hello-Rails-React
 
-> Implementation of the server side rendering using React and Rails.
+-  Implementation of the server side rendering using React and Rails
+This is a practice project to implement a connection between a Ruby on Rails back-end and React front-end.
+
 
 
 ## Built With
@@ -18,7 +20,7 @@ To get a local copy up and running follow these simple example steps.
 - Clone repository
 
 ```
-git clone https://github.com/luftedar/hello-react-rails.git
+git clone https://github.com/Busiwa24/hello-react-Rails-React.git
 ```
 
 - Cd into directory
@@ -92,7 +94,7 @@ http://localhost:3000
 
 # 🤝 Contributing
 
-Feel free to check the [issues page](https://github.com/Busiwa24/Hello-Rails/issues).
+Feel free to check the [issues page](https://github.com/Busiwa24/Hello-Rails-React/issues).
 
 ## Show your support
 
