@@ -1,7 +1,7 @@
 import React from "react"
 import { BrowserRouter, Route, Switch  } from "react-router-dom";
 import HelloWorld from './HelloWorld';
-import configureStore from '../configureStore';
+import configureStore from '../redux/configureStore';
 import { Provider } from "react-redux";
 const store = configureStore();
 
